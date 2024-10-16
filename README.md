@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Finding a game development job**
 
-- 🌱 I’m currently learning **Backend Python, JUCE C++**
+- 🌱 I’m currently learning **Backend Python, JUCE C++, Java Spring**
 
 - 💬 Ask me about **Audio programing, software architecture, game design**
 
