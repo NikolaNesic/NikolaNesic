@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikolanesic&label=Profile%20views&color=0e75b6&style=flat" alt="nikolanesic" /> </p>
 
-- 🔭 I’m currently working on **Finding a game development job**
+- 🔭 I’m currently working on **Tutoring students**
 
 - 🌱 I’m currently learning **Backend Python, JUCE C++, Java Spring**
 
